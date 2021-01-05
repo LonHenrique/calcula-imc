@@ -15,7 +15,7 @@ export default function app (){
       alert ('Você está no peso ideal! ' + imc.toFixed(2));
     } else if (imc >= 24.9 && imc < 34,9){
       alert ('Você está levemente acima do peso! ' + imc.toFixed(2));
-    } 
+    }  
   }
 
 
