@@ -18,7 +18,6 @@ export default function app (){
     }  
   }
 
-
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Calcule seu IMC.</Text>
